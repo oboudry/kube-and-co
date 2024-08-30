@@ -1,0 +1,5 @@
+baseURL = 'https://https://oboudry.github.io/'
+languageCode = 'fr-ch'
+title = 'Kube & Co'
+theme = "beautifulhugo"
+
