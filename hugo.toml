@@ -1,5 +1,5 @@
-baseURL = 'https://https://oboudry.github.io/'
-languageCode = 'fr-ch'
+baseURL = 'https://oboudry.github.io/'
+languageCode = 'en-us'
 title = 'Kube & Co'
 theme = "beautifulhugo"
 
